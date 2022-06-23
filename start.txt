@@ -1,4 +1,4 @@
-Test Git Quick Start Demo olala tiop
+Test Git Quick Start Demo
 
 Adding more
 
@@ -6,7 +6,7 @@ faithfully
 
 copyright
 
-blo blo nono
+blo blo nono nono
 
 ohmygod
 
