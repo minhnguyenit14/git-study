@@ -1,5 +1,5 @@
 # git-study
-This is a simpole project. Good mood for days!
+This is a simpole project. Good mood for days! for the whole life.
 ## Introduction
 This is another example
 ## Purpose
