@@ -10,3 +10,5 @@ This is deployment section
 This is the way to contribute
 ### Copyright
 2022 Git-study blobla. All rights reversed. lolo
+
+non-profit
